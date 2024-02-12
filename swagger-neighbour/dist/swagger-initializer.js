@@ -33,7 +33,9 @@ window.onload = function() {
       document.getElementById("model-SremApplicationApi").outerHTML= ""
       document.getElementById("model-SsemApplicationApi").outerHTML = ""
       document.getElementById("model-CapabilitySplitApi").outerHTML = ""
-      document.getElementById("model-AddSubscription").outerHTML = ""
+      document.getElementById("model-EndpointApi").outerHTML = ""
+
+
     }
   });
 

@@ -36,7 +36,13 @@ window.onload = function() {
         document.getElementById("model-SsemApplicationApi").outerHTML = ""
         document.getElementById("model-CapabilitySplitApi").outerHTML = ""
         document.getElementById("model-AddSubscription").outerHTML = ""
-
+        document.getElementById("model-PeerPrivateChannelApi").outerHTML = ""
+        document.getElementById("model-Delivery").outerHTML = ""
+        document.getElementById("model-LocalActorCapability").outerHTML = ""
+        document.getElementById("model-DeliveryEndpoint").outerHTML = ""
+        document.getElementById("model-LocalActorSubscription").outerHTML = ""
+        document.getElementById("model-LocalEndpointApi").outerHTML = ""
+        document.getElementById("model-DeliveryEndpoint").outerHTML = ""
 
     }
   });
