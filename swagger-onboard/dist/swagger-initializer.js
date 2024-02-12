@@ -42,8 +42,6 @@ window.onload = function() {
         document.getElementById("model-DeliveryEndpoint").outerHTML = ""
         document.getElementById("model-LocalActorSubscription").outerHTML = ""
         document.getElementById("model-LocalEndpointApi").outerHTML = ""
-        document.getElementById("model-DeliveryEndpoint").outerHTML = ""
-
     }
   });
   //</editor-fold>
