@@ -21,7 +21,6 @@ window.onload = function() {
             function (element, index, array) {
               element.outerHTML = ""
             })
-        document.getElementById("model-PrivateChannelApi").outerHTML = "";
         document.getElementById("model-PrivateChannelEndpointApi").outerHTML = ""
         document.getElementById("model-SelectorApi").outerHTML = ""
         document.getElementById("model-ApplicationApi").outerHTML = ""
@@ -43,6 +42,8 @@ window.onload = function() {
         document.getElementById("model-LocalActorSubscription").outerHTML = ""
         document.getElementById("model-LocalEndpointApi").outerHTML = ""
         document.getElementById("model-PrivateChannelRequestApi").outerHTML = ""
+        document.getElementById("model-PrivateChannelResponseApi").outerHTML = ""
+
     }
   });
   //</editor-fold>
