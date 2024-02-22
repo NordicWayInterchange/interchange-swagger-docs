@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  basic-interchange:
+  - apiVersion: v1
+    appVersion: "2.0"
+    created: "2024-02-22T09:25:42.381713558+01:00"
+    description: Nordic Way 2 Basic Interchange
+    digest: c53e6e00fc1ca1f60382ab376bb32d3dec277f094de602053d9dcc3a0eccba0b
+    name: basic-interchange
+    urls:
+    - https://nordicwayinterchange.github.io/interchange-swagger-docs/basic-interchange-0.3.0.tgz
+    version: 0.3.0
+  interchange:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2024-02-22T09:25:42.389411647+01:00"
+    description: Nordic Way Interchange app with dependencies
+    digest: 9928825ccb33c7abe4e9b7daa369bf76bf5ffa57f414b93c8cbbbba23f488f7f
+    name: interchange
+    urls:
+    - https://nordicwayinterchange.github.io/interchange-swagger-docs/interchange-0.5.14.tgz
+    version: 0.5.14
+generated: "2024-02-22T09:25:42.373899264+01:00"
