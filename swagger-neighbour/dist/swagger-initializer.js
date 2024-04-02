@@ -21,7 +21,6 @@ window.onload = function() {
             element.outerHTML = ""
           }
       )
-      document.getElementById("model-RequestedSubscriptionResponseApi").outerHTML = ""
       document.getElementById("model-ApplicationApi").outerHTML = ""
       document.getElementById("model-CamApplicationApi").outerHTML = ""
       document.getElementById("model-DatexApplicationApi").outerHTML = ""
