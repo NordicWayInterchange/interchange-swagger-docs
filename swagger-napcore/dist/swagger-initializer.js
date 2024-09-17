@@ -21,6 +21,14 @@ window.onload = function() {
             function (element, index, array) {
               element.outerHTML = ""
             })
+      document.getElementById("model-DatexApplicationApi").outerHTML = ""
+      document.getElementById("model-DenmApplicationApi").outerHTML = ""
+      document.getElementById("model-IvimApplicationApi").outerHTML = ""
+      document.getElementById("model-MapemApplicationApi").outerHTML = ""
+      document.getElementById("model-MetadataApi").outerHTML = ""
+      document.getElementById("model-SpatemApplicationApi").outerHTML = ""
+      document.getElementById("model-SremApplicationApi").outerHTML= ""
+      document.getElementById("model-SsemApplicationApi").outerHTML = ""
     }
   });
   //</editor-fold>
