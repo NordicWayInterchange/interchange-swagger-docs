@@ -10,6 +10,6 @@
 <a href="https://nordicwayinterchange.github.io/interchange-swagger-docs/swagger-napcore/index.html"> napcore-API </a>
     </li>
   <li>
-    <a href="https://nordicwayinterchange.github.io/interchange-swagger-docs/swagger-admin/index.html"> napcore-API </a>
+    <a href="https://nordicwayinterchange.github.io/interchange-swagger-docs/swagger-admin/index.html"> admin-API </a>
   </li>
 </ul>
